@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"rootDir": "${configDir}/src",
+		"outDir": "${configDir}/dist",
+		"module": "nodenext",
+		"target": "esnext",
+		"lib": ["esnext"],
+		"declaration": true,
+		"noUncheckedIndexedAccess": true,
+		"strict": true,
+		"verbatimModuleSyntax": true,
+		"isolatedModules": true,
+		"noUncheckedSideEffectImports": true,
+		"moduleDetection": "force",
+		"skipLibCheck": true
+	},
+	"include": ["${configDir}/src"]
+}

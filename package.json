@@ -1,0 +1,35 @@
+{
+	"name": "@hyperz111/tsconfig",
+	"version": "0.1.0",
+	"description": "Shared tsconfig.json file for @hyperz111",
+	"exports": "./tsconfig.json",
+	"scripts": {
+		"format": "prettier -w **.{js*,md}"
+	},
+	"keywords": [
+		"shared",
+		"ts",
+		"typescript",
+		"tsconfig"
+	],
+	"files": [
+		"tsconfig.json"
+	],
+	"author": "Hyper-Z11 (https://github.com/hyperz111)",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hyperz111/tsconfig.git"
+	},
+	"bugs": {
+		"url": "https://github.com/hyperz111/tsconfig/issues"
+	},
+	"homepage": "https://github.com/hyperz111/tsconfig#readme",
+	"packageManager": "pnpm@10.15.0",
+	"type": "module",
+	"devDependencies": {
+		"@hyperz111/prettier-config": "^0.1.1",
+		"prettier": "^3.6.2",
+		"typescript": "^5.9.3"
+	}
+}
