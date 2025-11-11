@@ -6,6 +6,9 @@
 	"scripts": {
 		"format": "prettier -w **.{js*,md}"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"keywords": [
 		"shared",
 		"ts",
