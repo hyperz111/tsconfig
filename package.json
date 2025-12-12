@@ -31,7 +31,7 @@
 	"packageManager": "pnpm@10.15.0",
 	"type": "module",
 	"devDependencies": {
-		"@hyperz111/prettier-config": "^0.1.1",
+		"@hyperz111/prettier-config": "^1.0.0",
 		"prettier": "^3.6.2",
 		"typescript": "^5.9.3"
 	}
