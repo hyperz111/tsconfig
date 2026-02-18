@@ -1,7 +1,5 @@
 {
 	"compilerOptions": {
-		"rootDir": "${configDir}/src",
-		"outDir": "${configDir}/dist",
 		"module": "nodenext",
 		"target": "esnext",
 		"lib": ["esnext"],
@@ -13,6 +11,5 @@
 		"noUncheckedSideEffectImports": true,
 		"moduleDetection": "force",
 		"skipLibCheck": true
-	},
-	"include": ["${configDir}/src"]
+	}
 }
