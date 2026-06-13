@@ -8,16 +8,9 @@
 		"typescript",
 		"tsconfig"
 	],
-	"homepage": "https://github.com/hyperz111/tsconfig#readme",
-	"bugs": {
-		"url": "https://github.com/hyperz111/tsconfig/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/hyperz111/tsconfig.git"
-	},
+	"repository": "hyperz111/tsconfig",
 	"license": "MIT",
-	"author": "Hyper-Z11 (https://github.com/hyperz111)",
+	"author": "Hyper-Z11",
 	"type": "module",
 	"exports": "./tsconfig.json",
 	"files": [
