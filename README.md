@@ -14,12 +14,10 @@ In `tsconfig.json`:
 
 ```jsonc
 {
-	// ...
-	"extends": "@hyperz111/tsconfig",
-	// ...
+	"extends": "@hyperz111/tsconfig"
 }
 ```
 
-## Copyright
+## License
 
-[MIT](https://opensource.org/license/mit/)
+MIT
