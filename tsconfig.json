@@ -3,7 +3,6 @@
 		"module": "nodenext",
 		"target": "esnext",
 		"lib": ["esnext"],
-		"declaration": true,
 		"noUncheckedIndexedAccess": true,
 		"strict": true,
 		"verbatimModuleSyntax": true,
