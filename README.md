@@ -12,7 +12,7 @@ npm install -D @hyperz111/tsconfig
 
 In `tsconfig.json`:
 
-```jsonc
+```json
 {
 	"extends": "@hyperz111/tsconfig"
 }
