@@ -1,6 +1,6 @@
 {
 	"name": "@hyperz111/tsconfig",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"description": "Shared tsconfig.json file for @hyperz111",
 	"keywords": [
 		"shared",
